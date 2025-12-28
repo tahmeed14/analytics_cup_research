@@ -1,4 +1,4 @@
-# SkillCorner X PySport Analytics Cup
+# Tempo Flexibility: Evaluating Player Ball-Tempo Variability in Football (Soccer) using a Player-Adjusted Bayesian Hierarchical Model
 
 Author: Tahmeed Tureen <<tureen@umich.edu>>
 
@@ -58,6 +58,7 @@ You should now have a virtual environment that will let you run all of the code 
 
 ## Research Track Abstract
 #### Introduction
+
 
 #### Methods
 
