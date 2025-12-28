@@ -42,7 +42,10 @@ We introduce a statistically robust framework for modeling player-specific ball-
 ## Set Up Environment
 
 Python **3** is required. Please make sure you have ```pip``` installed so that you can install all of the relevant packages for this repo. 
-**Note:** I prefer to use Python 3.12, but Python3+ should suffice. Please try Python 3.12 first.
+
+**Note:** I prefer to use Python 3.12, but Python3+ should suffice. 
+
+Please try Python 3.12 first.
 
 ### Create & Activate Virtual Environment
 
