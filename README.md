@@ -21,7 +21,51 @@ _⚠️ Not adhering to these submission rules and the [**Analytics Cup Rules**]
 
 ---
 
-## Research Track Abstract Template (max. 500 words)
+## Set Up Environment
+
+Python **3** is required. Please make sure you have ```pip``` installed so that you can install all of the relevant packages for this repo.
+
+### Create & Activate Virtual Environment
+
+We recommend that you create a clean new virtual environment to prevent any conflicts
+
+On **Mac**, open terminal and run the following set of commands:
+
+```bash
+python3 -m venv venv
+
+# specify version (I prefer to work with Python 3.12)
+python3.12 -m venv venv
+```
+**Note:** I prefer to use Python 3.12, but Python3+ should suffice. Please try Python 3.12 first.
+
+Activate environment
+
+```bash
+source venv/bin/activate
+```
+
+On, **Windows**, open Command Prompt:
+
+```bash
+python -m venv .venv
+
+# specify version (I prefer to work with Python 3.12)
+py -3.12 -m venv .venv
+```
+**Note:** I prefer to use Python 3.12, but Python3+ should suffice. Please try Python 3.12 first.
+
+```bash
+.venv\Scripts\activate.bat
+```
+
+### Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+## Research Track Abstract
 #### Introduction
 
 #### Methods
