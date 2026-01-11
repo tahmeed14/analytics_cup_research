@@ -4,6 +4,8 @@ Author: Tahmeed Tureen <<tureen@umich.edu>>
 
 Affiliation: Independent Researcher
 
+🏅Honourable Mention at the [2026 SkillCorner X PySport Analytics Cup](https://pysport.org/analytics-cup/results)🏅
+
 ⚠️ "This is ~~Football~~ Research Heritage" - ~~Jose Mourinho~~ Tahmeed Tureen ⚠️
 
 ---
